@@ -1,6 +1,6 @@
-namespace EventSourcingDemo.Events;
+namespace EventSourcingDemo.Events.BankAccount;
 
-public class Snapshot
+public class BankAccountSnapshot
 {
     public Guid Id { get; set; }
     public int Version { get; set; }

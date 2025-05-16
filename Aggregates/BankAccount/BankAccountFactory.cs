@@ -1,14 +1,16 @@
 using EventSourcingDemo.Events;
-using EventSourcingDemo.Aggregates;
+using EventSourcingDemo.Events.BankAccount;
+
+namespace EventSourcingDemo.Aggregates.BankAccount;
 
 public static class BankAccountFactory
 {
-    public static BankAccount Restore(EventStore store, Guid id)
+    public static BankAccount Restore(BankAccountEventStore store, Guid id)
     {
         var account = new BankAccount();
 
         var snapshot = store.GetLatestSnapshot(id);
-        
+
         if (snapshot != null)
         {
             account = new BankAccount();

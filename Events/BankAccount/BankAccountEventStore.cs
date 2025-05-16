@@ -1,16 +1,18 @@
-namespace EventSourcingDemo.Events;
+using EventSourcingDemo.Events;
 
-// File: EventStore.cs
-public class EventStore
+namespace EventSourcingDemo.Events.BankAccount;
+
+public class BankAccountEventStore
 {
     private readonly Dictionary<Guid, List<IEvent>> _storage = new();
-    private readonly Dictionary<Guid, Snapshot> _snapshots = new();
+    private readonly Dictionary<Guid, BankAccountSnapshot> _snapshots = new();
 
     public void Save(Guid aggregateId, IEnumerable<IEvent> events)
     {
         if (!_storage.ContainsKey(aggregateId))
+        {
             _storage[aggregateId] = new List<IEvent>();
-
+        }
         _storage[aggregateId].AddRange(events);
     }
 
@@ -21,12 +23,12 @@ public class EventStore
             : new List<IEvent>();
     }
 
-    public void SaveSnapshot(Snapshot snapshot)
+    public void SaveSnapshot(BankAccountSnapshot snapshot)
     {
         _snapshots[snapshot.Id] = snapshot;
     }
 
-    public Snapshot? GetLatestSnapshot(Guid aggregateId)
+    public BankAccountSnapshot? GetLatestSnapshot(Guid aggregateId)
     {
         return _snapshots.TryGetValue(aggregateId, out var snapshot) ? snapshot : null;
     }

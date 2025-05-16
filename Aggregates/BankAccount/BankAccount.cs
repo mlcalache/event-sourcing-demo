@@ -1,6 +1,7 @@
 using EventSourcingDemo.Events;
+using EventSourcingDemo.Events.BankAccount;
 
-namespace EventSourcingDemo.Aggregates;
+namespace EventSourcingDemo.Aggregates.BankAccount;
 
 public class BankAccount
 {
@@ -14,7 +15,7 @@ public class BankAccount
     public IEnumerable<IEvent> GetUncommittedChanges() => _changes;
     public void MarkChangesAsCommitted() => _changes.Clear();
 
-    public void ApplySnapshot(Snapshot snapshot)
+    public void ApplySnapshot(BankAccountSnapshot snapshot)
     {
         Id = snapshot.Id;
         Owner = snapshot.Owner;

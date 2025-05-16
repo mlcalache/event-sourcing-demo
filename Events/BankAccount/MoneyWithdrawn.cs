@@ -1,4 +1,6 @@
-namespace EventSourcingDemo.Events;
+using EventSourcingDemo.Events;
+
+namespace EventSourcingDemo.Events.BankAccount;
 
 public class MoneyWithdrawn : Event
 {
