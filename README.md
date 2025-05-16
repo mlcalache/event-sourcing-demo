@@ -44,6 +44,7 @@ A parallel domain showcasing similar principles as `BankAccount`, allowing:
 
 ## Project Structure
 
+```text
 /EventSourcingDemo
 │
 ├── Program.cs # Entry point
@@ -78,7 +79,7 @@ A parallel domain showcasing similar principles as `BankAccount`, allowing:
 │ └── ProductEventStore.cs
 │
 └── README.md # Project documentation
-
+```
 
 ## How to Run
 
