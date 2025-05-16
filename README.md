@@ -45,33 +45,39 @@ A parallel domain showcasing similar principles as `BankAccount`, allowing:
 ## Project Structure
 
 /EventSourcingDemo
-|__ Program.cs
-
-/Aggregates
-|__ /BankAccount
-    |__ BankAccount.cs
-    |__ BankAccountFactory.cs
-|__ /Products
-    |__ Product.cs
-    |__ ProductFactory.cs
-
-/Events
-|__ Event.cs
-|__ /BankAccount
-    |__ AccountCreated.cs
-    |__ BankAccountEventStore.cs
-    |__ BankAccountSnapshot.cs
-    |__ MoneyDeposited.cs
-    |__ MoneyWithdrawn.cs
-|__ /Product
-    |__ ProductCreated.cs
-    |__ ProductEventStore.cs
-    |__ ProductSnapshot.cs
-    |__ ModelChanged.cs
-    |__ BrandChanged.cs
-    |__ PriceChanged.cs
-
-README.md
+│
+├── Program.cs # Entry point
+│
+├── /Aggregates # Domain logic (entities, behavior)
+│ ├── /BankAccount
+│ │ ├── BankAccount.cs
+│ │ └── BankAccountFactory.cs
+│ │
+│ └── /Product
+│ ├── Product.cs
+│ └── ProductFactory.cs
+│
+├── /Events # Domain events
+│ ├── Event.cs # Base event interface/class
+│ │
+│ ├── /BankAccount
+│ │ ├── AccountCreated.cs
+│ │ ├── MoneyDeposited.cs
+│ │ ├── MoneyWithdrawn.cs
+│ │ └── BankAccountSnapshot.cs
+│ │
+│ └── /Product
+│ ├── ProductCreated.cs
+│ ├── ModelChanged.cs
+│ ├── BrandChanged.cs
+│ ├── PriceChanged.cs
+│ └── ProductSnapshot.cs
+│
+├── /Infrastructure # In-memory storage & utilities
+│ ├── BankAccountEventStore.cs
+│ └── ProductEventStore.cs
+│
+└── README.md # Project documentation
 
 
 ## How to Run
