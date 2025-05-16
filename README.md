@@ -83,15 +83,8 @@ A parallel domain showcasing similar principles as `BankAccount`, allowing:
 
 ## How to Run
 
-1. Clone the repository or create the project using the .NET CLI:
-
-```bash
-dotnet new console -n EventSourcingDemo
-cd EventSourcingDemo
-```
-
-2. Add the `.cs` files under appropriate folders (`Domain` and `Infrastructure`).
-3. Build and run:
+1. Clone the repository
+2. Build and run:
 
 ```bash
 dotnet run
