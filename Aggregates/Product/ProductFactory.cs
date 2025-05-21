@@ -1,11 +1,10 @@
-using EventSourcingDemo.Events;
 using EventSourcingDemo.Events.Product;
 
 namespace EventSourcingDemo.Aggregates.Product;
 
 public static class ProductFactory
 {
-    public static Product Restore(ProductEventStore store, Guid id)
+    public static Product Restore(IProductEventStore store, Guid id)
     {
         var product = new Product();
 

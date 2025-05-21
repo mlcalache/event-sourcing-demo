@@ -1,0 +1,702 @@
+[
+  {
+    "Id": "f33f5821-6496-41f0-b5c6-6e2e7460c018",
+    "Model": "SG",
+    "Brand": "Gibson",
+    "Price": 3401.65,
+    "Version": -1
+  },
+  {
+    "Id": "88490072-847e-4277-9bdf-4e948ec24ed4",
+    "Model": "814ce",
+    "Brand": "Taylor",
+    "Price": 3817.72,
+    "Version": -1
+  },
+  {
+    "Id": "e2bdb609-17d4-4a9e-8ce7-2a7c0b6a29f3",
+    "Model": "Explorer",
+    "Brand": "Gibson",
+    "Price": 1705.18,
+    "Version": -1
+  },
+  {
+    "Id": "0f402cbd-a4d3-488a-a378-f4f2e18c07a0",
+    "Model": "Les Paul",
+    "Brand": "Taylor",
+    "Price": 2068.78,
+    "Version": -1
+  },
+  {
+    "Id": "73fed014-0e18-4426-865b-847d24cf376e",
+    "Model": "SG",
+    "Brand": "Gretsch",
+    "Price": 462.63,
+    "Version": -1
+  },
+  {
+    "Id": "bdff3bd5-409c-487e-a5c7-d080a5a77aed",
+    "Model": "SG",
+    "Brand": "ESP",
+    "Price": 1019.62,
+    "Version": -1
+  },
+  {
+    "Id": "f10344e7-2a50-43b0-a619-27788afd95fe",
+    "Model": "Explorer",
+    "Brand": "Jackson",
+    "Price": 3450.17,
+    "Version": -1
+  },
+  {
+    "Id": "60f9af26-cd5b-4db3-a268-89759cb21f6b",
+    "Model": "Viper",
+    "Brand": "ESP",
+    "Price": 1611.13,
+    "Version": -1
+  },
+  {
+    "Id": "17ac981d-7d14-418f-97ea-de28a6fdac22",
+    "Model": "Viper",
+    "Brand": "Yamaha",
+    "Price": 1529.64,
+    "Version": -1
+  },
+  {
+    "Id": "ad0063e3-8b3f-4acc-af2d-0d052c42af5a",
+    "Model": "Explorer",
+    "Brand": "Gibson",
+    "Price": 2400.07,
+    "Version": -1
+  },
+  {
+    "Id": "4e9fa599-f30d-497a-9223-f5d30eee512d",
+    "Model": "Stratocaster",
+    "Brand": "Taylor",
+    "Price": 2999.77,
+    "Version": -1
+  },
+  {
+    "Id": "0670fbfb-208e-48a5-b9bf-bee161fee5b8",
+    "Model": "RG",
+    "Brand": "Gibson",
+    "Price": 309.17,
+    "Version": -1
+  },
+  {
+    "Id": "4dd675cd-ee1b-442d-9dd0-fb439e628a53",
+    "Model": "Les Paul",
+    "Brand": "Gretsch",
+    "Price": 1217.63,
+    "Version": -1
+  },
+  {
+    "Id": "57cd7f4b-6db3-4ce9-acbf-1771d7148c6d",
+    "Model": "Soloist",
+    "Brand": "Yamaha",
+    "Price": 468.53,
+    "Version": -1
+  },
+  {
+    "Id": "c0c7c37a-fdb1-43f9-8b38-e0106f7d2791",
+    "Model": "814ce",
+    "Brand": "Martin",
+    "Price": 464.37,
+    "Version": -1
+  },
+  {
+    "Id": "7b2748e1-a057-4767-8635-a1b06d4a4cc4",
+    "Model": "Stratocaster",
+    "Brand": "Fender",
+    "Price": 2131.22,
+    "Version": -1
+  },
+  {
+    "Id": "675a0acf-8cfe-4c3f-8d45-ad58f9ffd3ea",
+    "Model": "SG",
+    "Brand": "ESP",
+    "Price": 1829.19,
+    "Version": -1
+  },
+  {
+    "Id": "052eab29-27a3-4d62-907f-532828d44a50",
+    "Model": "Telecaster",
+    "Brand": "Jackson",
+    "Price": 918.04,
+    "Version": -1
+  },
+  {
+    "Id": "dc9a6923-fb31-48bc-a98e-f5065ceda5ec",
+    "Model": "Les Paul",
+    "Brand": "Taylor",
+    "Price": 945.45,
+    "Version": -1
+  },
+  {
+    "Id": "43cd7801-ef59-40a8-9b3f-ba30060fa272",
+    "Model": "Falcon",
+    "Brand": "Gibson",
+    "Price": 1245.95,
+    "Version": -1
+  },
+  {
+    "Id": "6492702e-e59a-4e63-9aac-e306fec66f1b",
+    "Model": "Pacifica",
+    "Brand": "Gretsch",
+    "Price": 2881.12,
+    "Version": -1
+  },
+  {
+    "Id": "971a0395-0d40-473e-b581-750a313b8e8a",
+    "Model": "Stratocaster",
+    "Brand": "Fender",
+    "Price": 2955.68,
+    "Version": -1
+  },
+  {
+    "Id": "becf7e2a-27af-45f8-8365-7dd3f33f3065",
+    "Model": "Jet",
+    "Brand": "Gretsch",
+    "Price": 2945.56,
+    "Version": -1
+  },
+  {
+    "Id": "c3b0e8dd-6675-4339-87bc-b21942f758e5",
+    "Model": "814ce",
+    "Brand": "Gibson",
+    "Price": 2305.62,
+    "Version": -1
+  },
+  {
+    "Id": "52981e82-7f1b-4047-92f3-c535f8f193d0",
+    "Model": "D-28",
+    "Brand": "Gibson",
+    "Price": 1303.82,
+    "Version": -1
+  },
+  {
+    "Id": "f0dc0b0a-036d-468b-8995-22f22bddddf6",
+    "Model": "Les Paul",
+    "Brand": "Taylor",
+    "Price": 3461.18,
+    "Version": -1
+  },
+  {
+    "Id": "d2a1b1ea-eaf4-4c47-97f7-45fc8d0c4ecb",
+    "Model": "Eclipse",
+    "Brand": "Gretsch",
+    "Price": 3350.46,
+    "Version": -1
+  },
+  {
+    "Id": "289503ba-acd2-4566-9b6e-b3cc911c94eb",
+    "Model": "Eclipse",
+    "Brand": "Martin",
+    "Price": 1391.14,
+    "Version": -1
+  },
+  {
+    "Id": "5b775f14-8522-492e-a603-34f09088933f",
+    "Model": "SG",
+    "Brand": "Jackson",
+    "Price": 2623.61,
+    "Version": -1
+  },
+  {
+    "Id": "b804e5fa-37fd-4052-8f79-4a13a1c9c2a3",
+    "Model": "SE Custom 24",
+    "Brand": "ESP",
+    "Price": 2039.07,
+    "Version": -1
+  },
+  {
+    "Id": "933c1d0c-3919-4bbb-ad54-1c455fccca29",
+    "Model": "814ce",
+    "Brand": "ESP",
+    "Price": 316.12,
+    "Version": -1
+  },
+  {
+    "Id": "38566b9e-510d-4bb7-be4f-bdccef17f7ed",
+    "Model": "Soloist",
+    "Brand": "Gretsch",
+    "Price": 3123.23,
+    "Version": -1
+  },
+  {
+    "Id": "d495bb29-2607-4e4d-9e52-b9745cf31f32",
+    "Model": "Falcon",
+    "Brand": "Fender",
+    "Price": 2162.79,
+    "Version": -1
+  },
+  {
+    "Id": "c4f6eaaf-ef57-4656-b53c-972be91ba1ee",
+    "Model": "Viper",
+    "Brand": "Gibson",
+    "Price": 992.42,
+    "Version": -1
+  },
+  {
+    "Id": "df3baf08-ec2e-4f08-975e-1588be8a940c",
+    "Model": "SG",
+    "Brand": "Ibanez",
+    "Price": 377.15,
+    "Version": -1
+  },
+  {
+    "Id": "b4afa216-5265-4459-82ff-38bce962740a",
+    "Model": "SG",
+    "Brand": "Fender",
+    "Price": 3280.92,
+    "Version": -1
+  },
+  {
+    "Id": "5095fd72-1489-415b-9baf-55a9ff9d5854",
+    "Model": "D-28",
+    "Brand": "Fender",
+    "Price": 2837.58,
+    "Version": -1
+  },
+  {
+    "Id": "802c0776-99b8-4221-ab92-75a9c9384f7d",
+    "Model": "Explorer",
+    "Brand": "ESP",
+    "Price": 3321.56,
+    "Version": -1
+  },
+  {
+    "Id": "eb8d253f-fad9-4368-a6b8-ce2f645d65b8",
+    "Model": "SG",
+    "Brand": "Ibanez",
+    "Price": 1201.73,
+    "Version": -1
+  },
+  {
+    "Id": "a3ae1312-5b03-412d-b29d-bb01b31ecbd6",
+    "Model": "RG",
+    "Brand": "Taylor",
+    "Price": 2454.17,
+    "Version": -1
+  },
+  {
+    "Id": "3150254b-30dc-4450-8398-3300574f6ec9",
+    "Model": "Falcon",
+    "Brand": "Jackson",
+    "Price": 3271.06,
+    "Version": -1
+  },
+  {
+    "Id": "bfb49c52-0915-4fc9-aa7e-0282512c2bf5",
+    "Model": "Falcon",
+    "Brand": "Ibanez",
+    "Price": 2274.65,
+    "Version": -1
+  },
+  {
+    "Id": "1a008507-ab41-4f84-be40-4410c3ecf27c",
+    "Model": "Pacifica",
+    "Brand": "Jackson",
+    "Price": 765.02,
+    "Version": -1
+  },
+  {
+    "Id": "25a5ad0d-0d08-4e26-bf6c-1d562ca771f3",
+    "Model": "Telecaster",
+    "Brand": "Yamaha",
+    "Price": 3718.12,
+    "Version": -1
+  },
+  {
+    "Id": "27946a29-318a-4c7a-9a9c-1b427c201fe4",
+    "Model": "Jet",
+    "Brand": "Fender",
+    "Price": 1170.87,
+    "Version": -1
+  },
+  {
+    "Id": "23d6aa7b-3272-4632-8e81-a5ca9a87d52e",
+    "Model": "Explorer",
+    "Brand": "Gibson",
+    "Price": 857.34,
+    "Version": -1
+  },
+  {
+    "Id": "551a7b4c-3b7c-499d-a202-c7e571083222",
+    "Model": "D-28",
+    "Brand": "Fender",
+    "Price": 2456.57,
+    "Version": -1
+  },
+  {
+    "Id": "30541517-8a01-447b-af25-0515e124a8cc",
+    "Model": "D-28",
+    "Brand": "Taylor",
+    "Price": 2040.78,
+    "Version": -1
+  },
+  {
+    "Id": "b3137370-6ed3-448b-a061-0037b270e939",
+    "Model": "Falcon",
+    "Brand": "Gibson",
+    "Price": 3768.42,
+    "Version": -1
+  },
+  {
+    "Id": "8d57ea4d-d2b9-4412-990c-b61568bff633",
+    "Model": "SG",
+    "Brand": "Martin",
+    "Price": 2892.52,
+    "Version": -1
+  },
+  {
+    "Id": "b3e911f9-ad56-4042-a6be-3ba863ff1995",
+    "Model": "Eclipse",
+    "Brand": "Fender",
+    "Price": 2548.59,
+    "Version": -1
+  },
+  {
+    "Id": "1d1ce4fb-d28f-49a7-a0b4-00f8f9a817c5",
+    "Model": "814ce",
+    "Brand": "Martin",
+    "Price": 1465.51,
+    "Version": -1
+  },
+  {
+    "Id": "6a2ff357-bf50-44ca-af5d-bac394d6d9a9",
+    "Model": "SE Custom 24",
+    "Brand": "PRS",
+    "Price": 2470.73,
+    "Version": -1
+  },
+  {
+    "Id": "96b3c57c-f4d2-4694-8db7-b567898a223e",
+    "Model": "Viper",
+    "Brand": "Martin",
+    "Price": 3984.06,
+    "Version": -1
+  },
+  {
+    "Id": "a451b67f-581f-45a5-9033-199521d8339b",
+    "Model": "Falcon",
+    "Brand": "Gretsch",
+    "Price": 782.37,
+    "Version": -1
+  },
+  {
+    "Id": "f414f849-6aa2-46b4-88d8-cae42270637c",
+    "Model": "Les Paul",
+    "Brand": "PRS",
+    "Price": 329.42,
+    "Version": -1
+  },
+  {
+    "Id": "88f0f725-ea9b-433b-a018-98ea63e98e0a",
+    "Model": "814ce",
+    "Brand": "PRS",
+    "Price": 546.69,
+    "Version": -1
+  },
+  {
+    "Id": "40da62cd-9e6e-40a1-a0fa-126b1cbaefe6",
+    "Model": "Falcon",
+    "Brand": "ESP",
+    "Price": 2347.63,
+    "Version": -1
+  },
+  {
+    "Id": "3f87d8ed-5abf-43d3-a2c1-d02f63311a25",
+    "Model": "RG",
+    "Brand": "Gibson",
+    "Price": 1295.41,
+    "Version": -1
+  },
+  {
+    "Id": "ed21e63e-c2e1-48d6-a3b2-b186adedb7c3",
+    "Model": "Pacifica",
+    "Brand": "Yamaha",
+    "Price": 3961.44,
+    "Version": -1
+  },
+  {
+    "Id": "c1cbd393-b484-4a76-9a75-c854c8b7439a",
+    "Model": "Eclipse",
+    "Brand": "Jackson",
+    "Price": 687.02,
+    "Version": -1
+  },
+  {
+    "Id": "20c84925-8d8b-4d74-b430-7533cbf505e5",
+    "Model": "Explorer",
+    "Brand": "ESP",
+    "Price": 2946.39,
+    "Version": -1
+  },
+  {
+    "Id": "89c0f27f-850a-4390-8006-9a91994bb078",
+    "Model": "Telecaster",
+    "Brand": "Fender",
+    "Price": 708.73,
+    "Version": -1
+  },
+  {
+    "Id": "f26859bf-acc7-47a5-acec-241375d98bad",
+    "Model": "SG",
+    "Brand": "Gibson",
+    "Price": 997.68,
+    "Version": -1
+  },
+  {
+    "Id": "2ed57a72-db56-4b26-995f-13ccd9e395af",
+    "Model": "Falcon",
+    "Brand": "Jackson",
+    "Price": 1772.57,
+    "Version": -1
+  },
+  {
+    "Id": "6a513214-679c-42c5-8946-9bed174856e3",
+    "Model": "RG",
+    "Brand": "ESP",
+    "Price": 2521.9,
+    "Version": -1
+  },
+  {
+    "Id": "5e2ffcda-44ef-4044-b237-c6d867b4a522",
+    "Model": "D-28",
+    "Brand": "Yamaha",
+    "Price": 3875.6,
+    "Version": -1
+  },
+  {
+    "Id": "f10d6bb2-d5fd-4c5f-9f43-5de59ab66172",
+    "Model": "Les Paul",
+    "Brand": "Gretsch",
+    "Price": 227.65,
+    "Version": -1
+  },
+  {
+    "Id": "d6aa913a-6fbb-4def-8f07-4b5a1c19b44a",
+    "Model": "Explorer",
+    "Brand": "Gibson",
+    "Price": 1269.61,
+    "Version": -1
+  },
+  {
+    "Id": "a8541e74-8797-4a1b-baaa-b48f259c30aa",
+    "Model": "Eclipse",
+    "Brand": "Fender",
+    "Price": 1350.35,
+    "Version": -1
+  },
+  {
+    "Id": "97f48d84-543e-4332-a01b-748c4b3e1a06",
+    "Model": "Pacifica",
+    "Brand": "ESP",
+    "Price": 1115.28,
+    "Version": -1
+  },
+  {
+    "Id": "c0e6e9d7-3849-4850-8a32-2649ee8573d1",
+    "Model": "814ce",
+    "Brand": "Martin",
+    "Price": 2926.73,
+    "Version": -1
+  },
+  {
+    "Id": "e95a69e6-a9bf-4588-a97f-c33c63974d4f",
+    "Model": "814ce",
+    "Brand": "Jackson",
+    "Price": 3952.02,
+    "Version": -1
+  },
+  {
+    "Id": "cc56d926-953b-4d26-a520-c220f9645509",
+    "Model": "Stratocaster",
+    "Brand": "Ibanez",
+    "Price": 385.73,
+    "Version": -1
+  },
+  {
+    "Id": "2b572b2d-df8f-4267-beb5-5cf662fa9720",
+    "Model": "Stratocaster",
+    "Brand": "Martin",
+    "Price": 2593.28,
+    "Version": -1
+  },
+  {
+    "Id": "b7495b43-0a31-415a-9278-d0d9c46542d8",
+    "Model": "Jet",
+    "Brand": "Jackson",
+    "Price": 2328.3,
+    "Version": -1
+  },
+  {
+    "Id": "af52f4cd-d134-4f94-b6c1-d21c77952575",
+    "Model": "Explorer",
+    "Brand": "Fender",
+    "Price": 1701.52,
+    "Version": -1
+  },
+  {
+    "Id": "046a7a74-4f00-4f81-a3b3-a4ac5ef6c6d2",
+    "Model": "Telecaster",
+    "Brand": "Fender",
+    "Price": 3066.56,
+    "Version": -1
+  },
+  {
+    "Id": "f6636083-19df-4180-8b15-9262453abdd4",
+    "Model": "SE Custom 24",
+    "Brand": "Jackson",
+    "Price": 808.94,
+    "Version": -1
+  },
+  {
+    "Id": "e04400e5-2f20-4120-87aa-7a87254e13e2",
+    "Model": "Telecaster",
+    "Brand": "Fender",
+    "Price": 2149.31,
+    "Version": -1
+  },
+  {
+    "Id": "efcb14b3-8370-4553-992a-41fba92799a1",
+    "Model": "Jet",
+    "Brand": "Martin",
+    "Price": 1302.51,
+    "Version": -1
+  },
+  {
+    "Id": "52125957-a5ac-45d4-b7b0-d9465e857fdf",
+    "Model": "SG",
+    "Brand": "Ibanez",
+    "Price": 3208.24,
+    "Version": -1
+  },
+  {
+    "Id": "e6661989-069b-4260-a051-8e6a797946a6",
+    "Model": "Stratocaster",
+    "Brand": "ESP",
+    "Price": 2413.42,
+    "Version": -1
+  },
+  {
+    "Id": "5ac5d739-a7c7-44fb-bca9-d705d0cf5327",
+    "Model": "Explorer",
+    "Brand": "PRS",
+    "Price": 1975.71,
+    "Version": -1
+  },
+  {
+    "Id": "057816cc-17c1-4f2d-b49c-46cff1732729",
+    "Model": "Pacifica",
+    "Brand": "Ibanez",
+    "Price": 400.53,
+    "Version": -1
+  },
+  {
+    "Id": "e083c919-4682-474a-bab8-a5a25dfa6c30",
+    "Model": "SG",
+    "Brand": "Yamaha",
+    "Price": 2983.78,
+    "Version": -1
+  },
+  {
+    "Id": "1d97dd57-efdf-4a4c-89c1-71f8da4264c2",
+    "Model": "Viper",
+    "Brand": "ESP",
+    "Price": 3803.93,
+    "Version": -1
+  },
+  {
+    "Id": "caa04276-918d-47c1-b3f7-dbace0e80ab8",
+    "Model": "RG",
+    "Brand": "Gibson",
+    "Price": 1605.54,
+    "Version": -1
+  },
+  {
+    "Id": "f1bc67b2-28ea-4269-80eb-bf75f5696183",
+    "Model": "814ce",
+    "Brand": "Taylor",
+    "Price": 3876.89,
+    "Version": -1
+  },
+  {
+    "Id": "5dc8a2de-6c54-4f75-a33b-0bae66a0a81a",
+    "Model": "Stratocaster",
+    "Brand": "Ibanez",
+    "Price": 942.85,
+    "Version": -1
+  },
+  {
+    "Id": "a6d79619-a490-47a9-9761-136a4f484642",
+    "Model": "Soloist",
+    "Brand": "Gretsch",
+    "Price": 803.39,
+    "Version": -1
+  },
+  {
+    "Id": "a8ac6a48-a848-432a-8531-36188e2224ad",
+    "Model": "814ce",
+    "Brand": "PRS",
+    "Price": 2773.04,
+    "Version": -1
+  },
+  {
+    "Id": "fd60a1c1-823b-48fe-b16f-32de9c56238d",
+    "Model": "SG",
+    "Brand": "Ibanez",
+    "Price": 1010.6,
+    "Version": -1
+  },
+  {
+    "Id": "1e3e2d4a-cc98-4ca9-b858-80fe83ebec53",
+    "Model": "Jet",
+    "Brand": "Jackson",
+    "Price": 3178.5,
+    "Version": -1
+  },
+  {
+    "Id": "cc31f6e0-bce6-440d-ba8d-87b5833fe638",
+    "Model": "Viper",
+    "Brand": "PRS",
+    "Price": 919.28,
+    "Version": -1
+  },
+  {
+    "Id": "6ca84f5f-60ff-484a-a397-53090e41209d",
+    "Model": "D-28",
+    "Brand": "Martin",
+    "Price": 2901.1,
+    "Version": -1
+  },
+  {
+    "Id": "c9ed7b72-e54e-41d9-81a5-4f5286027887",
+    "Model": "Jet",
+    "Brand": "Martin",
+    "Price": 860.64,
+    "Version": -1
+  },
+  {
+    "Id": "ff345266-b4a5-4bbb-ab86-8a0588c7f26c",
+    "Model": "SE Custom 24",
+    "Brand": "Yamaha",
+    "Price": 3784.93,
+    "Version": -1
+  },
+  {
+    "Id": "0f1a90c9-6b8d-476f-a154-2f801b5ff4b7",
+    "Model": "Les Paul",
+    "Brand": "ESP",
+    "Price": 432.13,
+    "Version": -1
+  },
+  {
+    "Id": "9f83ca2b-3c96-406a-a40b-420378da82a1",
+    "Model": "Stratocaster",
+    "Brand": "Taylor",
+    "Price": 1787.91,
+    "Version": -1
+  }
+]

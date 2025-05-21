@@ -1,6 +1,6 @@
 namespace EventSourcingDemo.Events.Product;
 
-public class ProductSnapshot
+public class ProductSnapshot : IProductSnapshot
 {
     public Guid Id { get; set; }
     public int Version { get; set; }

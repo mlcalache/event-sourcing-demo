@@ -1,8 +1,6 @@
-using EventSourcingDemo.Events;
-
 namespace EventSourcingDemo.Events.Product;
 
-public class ProductEventStore
+public class ProductEventStore : IProductEventStore
 {
     private readonly Dictionary<Guid, List<IEvent>> _storage = new();
     private readonly Dictionary<Guid, ProductSnapshot> _snapshots = new();

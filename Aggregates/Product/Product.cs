@@ -5,14 +5,12 @@ namespace EventSourcingDemo.Aggregates.Product;
 
 public class Product
 {
-    public Guid Id { get; private set; }
-    public string Model { get; private set; }
-    public string Brand { get; private set; }
-    public decimal Price { get; private set; }
-    public int Version { get; private set; } = -1;
-
+    public Guid Id { get; set; }
+    public string Model { get; set; }
+    public string Brand { get; set; }
+    public decimal Price { get; set; }
+    public int Version { get; set; } = -1;
     private List<IEvent> _changes = new();
-
     public IEnumerable<IEvent> GetUncommittedChanges() => _changes;
     public void MarkChangesAsCommitted() => _changes.Clear();
 
@@ -24,10 +22,10 @@ public class Product
         Price = snapshot.Price;
         Version = snapshot.Version;
     }
-
-    public void Create(Guid id, string model, string brand)
+    
+    public void Create(Guid id, string model, string brand, decimal price)
     {
-        ApplyChange(new ProductCreated(id, model, brand));
+        ApplyChange(new ProductCreated(id, model, brand, price));
     }
 
     public void ChangePrice(decimal price)
@@ -60,7 +58,7 @@ public class Product
                 Id = e.ProductId;
                 Model = e.Model;
                 Brand = e.Brand;
-                Price = 0;
+                Price = e.Price;
                 break;
             case ProductModelChanged e:
                 Model = e.Model;
